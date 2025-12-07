@@ -2,4 +2,4 @@
 
 Where different clothing items can be classified based on a trained ConvolutionalNeural Network.
 
-A Pytorch version is as well available.
+A Pytorch version is also available in a seperate notebook.
