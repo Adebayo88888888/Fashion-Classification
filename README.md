@@ -8,21 +8,19 @@ This project explores modern computer vision workflows — data preprocessing, m
 This project trains an image classification model on a fashion dataset (similar to Fashion-MNIST or a custom clothing dataset).
 The model learns to recognize and classify clothing items such as:
 
-T-shirts
+* T-shirts
 
-Trousers
+* Trousers
 
-Dresses
+* Dresses
 
-longsleeve
+* Longsleeve
 
-hat
+* Hat
 
-t-shirt
+* skirt
 
-skirt
-
-shorts
+* shorts
 
 
 🧠 Model Architecture
