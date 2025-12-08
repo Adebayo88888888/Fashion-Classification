@@ -5,7 +5,7 @@ This project explores modern computer vision workflows — data preprocessing, m
 
 ---
 
-🚀 Project Overview
+### 🚀 Project Overview
 
 This project trains an image classification model on a fashion dataset (similar to Fashion-MNIST or a custom clothing dataset).
 The model learns to recognize and classify clothing items such as:
@@ -26,7 +26,7 @@ The model learns to recognize and classify clothing items such as:
 
 ---
 
-🧠 Model Architecture
+### 🧠 Model Architecture
 
 The project uses a Convolutional Neural Network (CNN) built with TensorFlow/Keras.
 
@@ -93,3 +93,5 @@ Hyperparameter tuning
 Evaluation on test set
 
 Saving the trained model
+
+---
